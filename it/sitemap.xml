@@ -38,6 +38,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://www.ingoglia.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.ingoglia.de/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.ingoglia.de/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="https://www.ingoglia.de/it/"
                 />
@@ -62,6 +77,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://www.ingoglia.de/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.ingoglia.de/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.ingoglia.de/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="https://www.ingoglia.de/it/categories/"
                 />
@@ -71,6 +101,21 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.ingoglia.de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ingoglia.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.ingoglia.de/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.ingoglia.de/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"

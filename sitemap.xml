@@ -9,7 +9,28 @@
   </sitemap>
   
   <sitemap>
+    <loc>https://www.ingoglia.de/en/sitemap.xml</loc>
+    
+      <lastmod>2025-04-02T00:00:00+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.ingoglia.de/es/sitemap.xml</loc>
+    
+      <lastmod>2025-04-02T00:00:00+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
     <loc>https://www.ingoglia.de/it/sitemap.xml</loc>
+    
+      <lastmod>2025-04-02T00:00:00+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.ingoglia.de/pl/sitemap.xml</loc>
     
       <lastmod>2025-04-02T00:00:00+02:00</lastmod>
     

@@ -22,6 +22,16 @@
   </url><url>
     <loc>https://www.ingoglia.de/kontakt/</loc>
     <lastmod>2025-04-02T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.ingoglia.de/pl/kontakt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ingoglia.de/kontakt/"
+                />
   </url><url>
     <loc>https://www.ingoglia.de/produkte/produktionslinien/</loc>
     <lastmod>2025-04-02T00:00:00+02:00</lastmod>
@@ -30,8 +40,23 @@
     <lastmod>2025-04-02T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://www.ingoglia.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.ingoglia.de/es/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="https://www.ingoglia.de/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.ingoglia.de/pl/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -41,6 +66,16 @@
   </url><url>
     <loc>https://www.ingoglia.de/news/</loc>
     <lastmod>2025-04-02T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ingoglia.de/en/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ingoglia.de/news/"
+                />
   </url><url>
     <loc>https://www.ingoglia.de/produkte/</loc>
     <lastmod>2025-04-02T00:00:00+02:00</lastmod>
@@ -57,8 +92,23 @@
     <loc>https://www.ingoglia.de/categories/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://www.ingoglia.de/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.ingoglia.de/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="https://www.ingoglia.de/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.ingoglia.de/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -69,8 +119,23 @@
     <loc>https://www.ingoglia.de/tags/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://www.ingoglia.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.ingoglia.de/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="https://www.ingoglia.de/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.ingoglia.de/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
